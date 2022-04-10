@@ -1,5 +1,6 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Yellow	
+Favorite food: Hamburger
+Favorite musician/band: Set It Off
+Favorite movie: Spiderman
+Requested grade in the course: 85
+ 
